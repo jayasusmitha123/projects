@@ -2,19 +2,14 @@ STUDENT MANAGEMENT SYSTEM IN C++
 
 LOGIN DETAIL :-
 
-Username : admin
-Password : pass
+Username : susmi
+Password : miniproject
 
 
-Developed By Chetan Khunti
-
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+Developed By JAYA SUSMITHA KUNAPAREDDY
 
 
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
 
-THANKS FOR DOWNLOADING :) 
